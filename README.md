@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v8585
 - ⚡ Fun fact: This is my first commit 
--  ©️ Copyright VARMA
+-  ©️ Copyright* VARMA
 
 <!---
 v8585/v8585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
